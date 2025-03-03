@@ -1,0 +1,14 @@
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\bin\Debug\net8.0\SwapNumbers.exe
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\bin\Debug\net8.0\SwapNumbers.deps.json
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\bin\Debug\net8.0\SwapNumbers.runtimeconfig.json
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\bin\Debug\net8.0\SwapNumbers.dll
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\bin\Debug\net8.0\SwapNumbers.pdb
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\SwapNumbers.dll
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\refint\SwapNumbers.dll
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\SwapNumbers.pdb
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\ilina\source\repos\QA.CSharpBasic.Homework\SwapNumbers\obj\Debug\net8.0\ref\SwapNumbers.dll
