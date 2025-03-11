@@ -1,0 +1,15 @@
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\bin\Debug\net8.0\TaskFromClass.exe
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\bin\Debug\net8.0\TaskFromClass.deps.json
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\bin\Debug\net8.0\TaskFromClass.runtimeconfig.json
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\bin\Debug\net8.0\TaskFromClass.dll
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\bin\Debug\net8.0\TaskFromClass.pdb
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.AssemblyInfoInputs.cache
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.AssemblyInfo.cs
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.csproj.CoreCompileInputs.cache
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.sourcelink.json
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.dll
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\refint\TaskFromClass.dll
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.pdb
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\TaskFromClass.genruntimeconfig.cache
+C:\Users\ilina\OneDrive\Desktop\QA.CSharpBasic.Homework\TaskFromClass\TaskFromClass\obj\Debug\net8.0\ref\TaskFromClass.dll
